@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b2e7f54-791e-42f6-b24f-4d2869bc76d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1goKC2ts4SnpCmt8aCLIMNN9pj1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="Python.get_information">
+    <configuration name="GuidePage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="quanze_list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quanze_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quanze_list/GuidePage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_information" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="quanze_list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quanze_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quanze_list/get_information.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_url_content" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="quanze_list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quanze_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quanze_list/get_url_content.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="quanze_list" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_information" />
+        <item itemvalue="Python.GuidePage" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.get_url_content" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b2e7f54-791e-42f6-b24f-4d2869bc76d9" name="Default Changelist" comment="" />
+      <created>1598775373898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598775373898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="240" key="FileChooserDialogImpl" timestamp="1599397708366">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="533" y="240" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1599397708366" />
+    <state width="1480" height="315" key="GridCell.Tab.0.bottom" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.0.center" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.0.left" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.0.right" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.1.bottom" timestamp="1599272290442">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1599272290442" />
+    <state width="1480" height="315" key="GridCell.Tab.1.center" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.1.left" timestamp="1599272290441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1599272290441" />
+    <state width="1480" height="315" key="GridCell.Tab.1.right" timestamp="1599272290442">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="315" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1599272290442" />
+    <state x="252" y="123" key="SettingsEditor" timestamp="1598777175243">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="252" y="123" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1598777175243" />
+    <state width="756" height="486" key="XDebugger.FullValuePopup" timestamp="1599267975767">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="756" height="486" key="XDebugger.FullValuePopup/0.0.1500.960@0.0.1500.960" timestamp="1599267975767" />
+    <state x="415" y="208" width="672" height="678" key="search.everywhere.popup" timestamp="1599033968746">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="415" y="208" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1599033968746" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quanze_list/GuidePage.py</url>
+          <line>530</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
